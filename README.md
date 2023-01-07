@@ -11,4 +11,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - JavaScript
 
 ### 🔗 Acesso ao projeto
-<p>Link para acessar o jogo da velha <a href="https://vinicius51547.github.io/Jogo-da-velha/">Clica aqui.</a> </p>
+<p>Link para acessar o jogo da velha https://vinicius51547.github.io/Jogo-da-velha/ </p>
